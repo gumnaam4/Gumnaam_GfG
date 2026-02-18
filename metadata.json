@@ -1,0 +1,5 @@
+{
+  "name": "AuraUrban City Generator",
+  "description": "A sophisticated procedural city generator using formal grammar, constraint satisfaction, A* pathfinding, and Gemini-driven semantic urban intent mapping.",
+  "requestFramePermissions": []
+}
